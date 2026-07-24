@@ -43,5 +43,7 @@ Installers:
   Dependencies:
     PackageDependencies:
     - PackageIdentifier: Microsoft.DotNet.Runtime.9
+ReleaseNotesUrl: https://github.com/microsoft/winget-create/releases/tag/v1.12.13.0
+ReleaseDate: 2026-07-23
 ManifestType: installer
 ManifestVersion: 1.12.0
